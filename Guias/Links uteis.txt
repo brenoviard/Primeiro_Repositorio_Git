@@ -2,8 +2,12 @@ Link de comandos git:
 
 https://comandosgit.github.io/
 
-
-
-
-
 https://qastack.com.br/programming/6313126/how-to-remove-a-directory-from-git-repository
+
+
+
+
+
+Guia básico markdown
+
+https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
